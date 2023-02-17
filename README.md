@@ -14,20 +14,12 @@
    - `-d, --database`: The MySQL database name.
    - `-P, --port`: The MySQL database port number. Default is `3306`.
 
-## Installation
-
-You can either download the source code and run that way, or you can use pip:
-
-```python
-pip install mysql-grantsdump==0.0.1
-```
-
 ## Example Usage
 
 ```bash
-cd granstdump/
 pip install -r requirements.txt
-python3 mysql_grantsdump.py -u root -p
+cd src/io/lyuda/
+python3 mysqlgrantsdump.py -u root -p
 ```
 
 ### Example Output
