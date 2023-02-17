@@ -1,0 +1,3 @@
+[console_scripts]
+mysqlgrantsdump = mysqlgrantsdump.main:main
+
