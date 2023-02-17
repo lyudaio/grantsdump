@@ -5,7 +5,7 @@ with open('README.md', 'r') as f:
 
 setup(
     name='mysqlgrantsdump',
-    version='0.0.5',
+    version='0.0.6',
     author='lyuda io',
     author_email='help@elyuda.io',
     description='A Python package to fetch a list of all users and grants from a MariaDB database and output them in a human-readable table format to the console.',
@@ -15,6 +15,7 @@ setup(
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     package_data={'mysqlgrantsdump': ['*.txt']},
+    include_package_data=True,
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',

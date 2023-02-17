@@ -2,11 +2,12 @@
 
 ## Supported Versions
 
-Our tool currently supports version 0.0.1, and will continue to receive security updates for this version.
+Our tool currently supports version 0.0.6, and will continue to receive security updates for this version. Versions less than 0.0.6 have an issue with PyPi package distribution. 
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.0.5   | :white_check_mark: |
+| 0.0.6   | :white_check_mark: |
+| 0.0.5   | :x:                |
 | 0.0.4   | :x:                |
 | 0.0.3   | :x:                |
 | 0.0.2   | :x:                |
