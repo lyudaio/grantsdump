@@ -15,9 +15,8 @@ If you encounter any issues or bugs with the tool, please check the [GitHub Issu
 We welcome all contributions, including bug fixes and new features. To contribute, follow these steps:
 
 1. Fork the repository and create a new branch for your changes.
-2. Make your changes and ensure that they follow our [style guidelines](./STYLE_GUIDELINES.md).
-3. Write unit tests for your changes to ensure they work as expected and do not introduce any new bugs.
-4. Submit a pull request and provide a clear and descriptive title and description of your changes.
+2. Write unit tests for your changes to ensure they work as expected and do not introduce any new bugs.
+3. Submit a pull request and provide a clear and descriptive title and description of your changes.
 
 ## Development Setup
 
