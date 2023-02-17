@@ -1,8 +1,8 @@
-# mysql-grants-dump
+# mysql-grantsdump
 
 ## Description
 
-`mysql-grants-dump` is a command-line tool that allows you to dump a list of all MySQL users and their grants. It connects to a MySQL database and retrieves the users and their associated permissions, and outputs them in a table format using the `prettytable` module.
+`mysql-grantsdump` is a command-line tool that allows you to dump a list of all MySQL users and their grants. It connects to a MySQL database and retrieves the users and their associated permissions, and outputs them in a table format using the `prettytable` module.
 
 ## Getting Started
 
@@ -60,4 +60,4 @@ python3 mysql_grantsdump.py -u root -p
 
 ## License
 
-`mysql-grants-dump` is released under the MIT License. See `LICENSE` for more information.
+`mysql-grantsdump` is released under the MIT License. See `LICENSE` for more information.
