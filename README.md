@@ -16,10 +16,18 @@
 
 ## Example Usage
 
+From pip
+
+```bash
+mysqlgrantsdump -u root -p # Connects default to localhost for host.
+```
+
+From source
+
 ```bash
 pip install -r requirements.txt
 cd src/io/lyuda/
-python3 mysqlgrantsdump.py -u root -p
+mysqlgrantsdump.py -u root -p
 ```
 
 ### Example Output
