@@ -19,7 +19,7 @@
 You can either download the source code and run that way, or you can use pip:
 
 ```python
-pip install mysql-grants-dump==0.0.1
+pip install mysql-grantsdump==0.0.1
 ```
 
 ## Example Usage
@@ -27,7 +27,7 @@ pip install mysql-grants-dump==0.0.1
 ```bash
 cd granstdump/
 pip install -r requirements.txt
-python3 mysql_grants_dump.py -u root -p
+python3 mysql_grantsdump.py -u root -p
 ```
 
 ### Example Output
