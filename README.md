@@ -14,6 +14,13 @@
    - `-d, --database`: The MySQL database name.
    - `-P, --port`: The MySQL database port number. Default is `3306`.
 
+
+## Install using pip
+
+```bash
+pip install mysqlgrantsdump
+```
+
 ## Example Usage
 
 From pip

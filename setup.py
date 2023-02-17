@@ -5,7 +5,7 @@ with open('README.md', 'r') as f:
 
 setup(
     name='mysqlgrantsdump',
-    version='0.0.6',
+    version='0.0.7',
     author='lyuda io',
     author_email='help@elyuda.io',
     description='A Python package to fetch a list of all users and grants from a MariaDB database and output them in a human-readable table format to the console.',
