@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to `mysql-grants-dump`!
+Thank you for your interest in contributing to `mysql-grantsdump`!
 
 ## Code of Conduct
 
@@ -20,15 +20,15 @@ We welcome all contributions, including bug fixes and new features. To contribut
 
 ## Development Setup
 
-To set up a local development environment for `mysql-grants-dump`, follow these steps:
+To set up a local development environment for `mysql-grantsdump`, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
 3. Create a virtual environment by running `virtualenv venv` and activate it by running `source venv/bin/activate`.
-4. Run the tool by running `python mysql-grants-dump.py`.
+4. Run the tool by running `python mysql-grantsdump.py`.
 
 ## License
 
-By contributing to `mysql-grants-dump`, you agree that your contributions will be licensed under the [MIT License](./LICENSE).
+By contributing to `mysql-grantsdump`, you agree that your contributions will be licensed under the [MIT License](./LICENSE).
 
 Thank you for your contributions!
