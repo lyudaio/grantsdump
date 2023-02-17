@@ -17,9 +17,9 @@
 ## Example Usage
 
 ```bash
-cd grantdump/
+cd granstdump/
 pip install -r requirements.txt
-python3 grantdump.py -u root -p
+python3 mysql_grants_dump.py -u root -p
 ```
 
 ### Example Output
